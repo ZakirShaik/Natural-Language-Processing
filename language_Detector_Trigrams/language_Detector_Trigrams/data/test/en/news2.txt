@@ -1,0 +1,194 @@
+http://www.nytimes.com/2014/09/09/technology/google-is-target-of-european-backlash-on-us-tech-dominance.html
+
+BRUSSELS — A top German official called for Google to be broken up. A
+French minister pronounced the company a threat to his country’s
+sovereignty. A European publishing executive likened it to a Wagnerian
+dragon.
+
+Across Europe, Google has been under fire, reflecting the broader
+challenges facing American technology companies. Google, fairly or not,
+has become a glaring proxy for criticism of an intrusive American
+government and concern over America’s unmatched technology dominance.
+
+On Monday, things grew worse. Regulators pushed the company to give up
+more in an antitrust settlement — demanding that Google make additional
+changes to its secret sauce, the search algorithm.
+Continue reading the main story
+Related Coverage
+
+    One of the deleted links was to a BBC blog post in 2007 about E.
+Stanley O’Neal, the former chief of Merrill Lynch.
+    Google Starts Erasing Links for Searches in EuropeJULY 3, 2014
+    The case began in 2009 when Mario Costeja, a lawyer in Spain,
+objected that entering his name in Google’s search engine led to legal
+notices that he said were no longer relevant.
+    European Court Lets Users Erase Records on WebMAY 13, 2014
+    Joaquín Almunia, the European Union’s competition commissioner, who
+leaves his post later this year, has made the antitrust settlement with
+Google a top priority.
+    Google Settles Its European Antitrust Case; Critics RemainFEB. 5,
+2014
+
+When Google initially settled with regulators in February, it emerged
+largely unscathed, agreeing to make modest adjustments to its search
+formula and avoiding a fine. Now, the deal is in jeopardy. If Google
+does not acquiesce, regulators could toss out the settlement and bring
+formal charges, which could prompt billions of dollars in penalties and
+major changes to its operations.
+Continue reading the main story
+Notable Moments in Google’s E.U. Antitrust Case
+November 2010
+
+Europe opens a formal antitrust investigation into accusations that
+Google has abused its dominance in online search, exposing the company’s
+zealously guarded technology to unwelcome scrutiny.
+
+The backlash in Europe extends beyond Google. Taxi drivers from London
+to Madrid have demonstrated against Uber, the American ride-sharing
+company that was recently banned in Germany. Apple and Amazon are being
+investigated over their tax policies, and regulators are scrutinizing
+Facebook’s proposed acquisition of WhatsApp, a messaging app.
+
+Google, with its broad reach, is arguably facing the most pressure.
+
+Accusations are mounting that Google unfairly exploits its dominant
+position in search, giving a competitive edge to its growing stable of
+businesses, like YouTube videos, its Google Play app store and its news
+alerts.
+
+A landmark European court ruling this year forced search providers to
+give the public greater sway in purging links to personal information.
+Its Street View cars, dispatched to scoop up data, have brought fines in
+France, Germany and Italy.
+
+“We are afraid of Google,” wrote Mathias Döpfner, chief executive of
+Axel Springer, a German publishing giant, in an open letter to Eric
+Schmidt, Google’s executive chairman. “I must state this very clearly
+and frankly, because few of my colleagues dare do so publicly.”
+
+The influence of Mr. Döpfner, who has rallied a group of publishers
+against the company, has risen after he played a crucial role in winning
+German support for Jean-Claude Juncker, the next head of the European
+Commission.
+
+Google has not been idle. While the company has stressed its efforts to
+negotiate with European regulators, it has also resorted to more
+familiar tactics.
+
+Since 2010, the company has tripled its lobbying budget in Brussels to
+as much as $2 million annually, according to public records. Google has
+hired political insiders, including Antoine Aubert, a former policy
+manager in one of the European Commission’s ministries. The company has
+also tapped at least four outside firms to bolster its own staff of
+seven registered lobbyists, records show. And Google has doubled the
+number of outside groups it has joined to advance its interests, with
+some, like the European Privacy Association, drawing criticism for a
+lack of transparency.
+
+“We continue to work with the E.C. to resolve the concerns they have
+raised,” the company said in an emailed statement about the antitrust
+settlement, referring to the European Commission. Over the weekend, Mr.
+Schmidt in a lengthy statement responded to criticisms made by European
+publishers, saying it is not true that “we are promoting our own
+products at the expense of the competition.”
+
+Much has changed since Google was founded in the late 1990s. It was once
+viewed as an idealistic start-up whose credo was “Don’t Be Evil.”
+
+Now, it is under attack around the globe. Over the last year, while its
+search engine business was being shut off by the Chinese government, its
+employee buses were assailed in the Bay Area as symbols of inequality
+and its Google Glass was drawing fire from privacy advocates.
+
+“They’re no longer seen as innocent geeks,” said Thomas Tindemans, the
+chief executive of Hill & Knowlton Strategies in Brussels.
+
+Perceptions in Europe have been gradually changing over Google’s
+dominance. The company commands about two-thirds of the United States
+search market, according to comScore, but close to 90 percent in Europe,
+excluding Russia.
+
+Anger over mass data collection by the American government has only
+amplified the concerns. Jérémie Zimmerman, a co-founder of the French
+Internet activist group La Quadrature du Net, said that when people told
+him now that they worked for Google, he says, “How do you like working
+for the N.S.A.,” referring to the National Security Agency.
+Continue reading the main story
+Recent Comments
+DaveG
+20 minutes ago
+
+Google’s corporate motto, “Don’t Be Evil”, sounds like Orwellian
+Doublespeak to me, with mega-multinational Google’s actual workings
+being...
+COH
+22 minutes ago
+
+I am sorry but I have complaints about Google too but until there is a
+viable competitor you do not have an injured party re. antitrust. ...
+fact or friction?
+22 minutes ago
+
+If only the US government took the same stance in regard to monopolies
+and antitrust. The EU arguably cares more about the interests of the...
+
+    See All Comments
+    Write a comment
+
+“Many users were lured by the convenience and comfort of the services,”
+he said, but he added that the revelations by the former N.S.A.
+contractor Edward J. Snowden revealed that Google was part of a “massive
+breach of our security, of our data and of our sovereignty.”
+
+Google, for its part, has denied being complicit in the spying and said
+it was taking steps to make it much more difficult for spy agencies to
+breach its systems.
+
+On another antitrust front, regulators have begun a preliminary
+investigation of the company’s Android operating system for cellphones
+and other mobile devices. They are examining many complaints from
+competitors like Aptoide, a Portuguese app store provider that says
+Google’s search results favor the Google Play app store. Other
+complaints have come from an association of photo libraries and a
+telecom company, claiming that Google skews search results.
+
+Digital privacy legislation is also advancing in Parliament. The
+legislation has accumulated more than 4,000 amendments, a record. Among
+the main proposals are restrictions on how companies like Google use
+personal data and requirements that they check with European officials
+before they comply with American subpoenas.
+
+“Google was an interesting start-up at the beginning and a helpful
+website, but that has dramatically changed,” said Jan Philipp Albrecht,
+a member of the Green Party who has been the leading legislator
+shepherding through the legislation. “For politicians in Europe, it’s
+clear they have to act and regulate the way Google dominates the
+market.”
+
+Trouble is stirring at the country level, too. In Germany, publishers
+are fighting in court over compensation for the “snippets of text” that
+appear with Google News updates.
+
+“Taken together, all these issues point to the pressing need for
+E.U.-wide common approaches to the challenges posed by Google and other
+players in the digital era,” Joaquín Almunia, Europe’s competition
+regulator, said in a speech this summer. “Their centrality for Europe’s
+economy and their pervasive presence in the lives of the vast majority
+of our fellow citizens are turning this into one of the defining domains
+of E.U. policy making.”
+
+Google’s competitors have created a cottage industry dedicated to
+bashing the company. Axel Springer and a number of other French and
+German companies banded together to form a group called the Open
+Internet Project, whose grandiose “Paris Declaration of May 15, 2014,”
+said “European consumers and digital entrepreneurs demand ban of
+Google’s manipulative favoring of own services and content.”
+
+Then there is Microsoft, Google’s longtime nemesis, which spends three
+times as much in Europe on lobbying and similar efforts. ICOMP, a
+Microsoft-backed group, has long targeted Google.
+
+“Google is clearly in the cross hairs,” said David Wood, a London-based
+partner at Gibson, Dunn, one of Microsoft’s law firms, and legal counsel
+at ICOMP. “A lot of the aura has faded, and the shine has come off, and
+people don’t think they’re the good guy anymore.”
