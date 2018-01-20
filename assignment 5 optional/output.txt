@@ -1,0 +1,1951 @@
+################################################################################
+(S
+  (SBAR-TMP
+    (WHADVP-1 (WRB When))
+    (S
+      (NP-SBJ (PRP it))
+      (VP
+        (VBZ 's)
+        (NP-PRD
+          (NP (NN time))
+          (PP (IN for) (NP (PRP$ their) (JJ biannual) (NN powwow))))
+        (ADVP-TMP (-NONE- *T*-1)))))
+  (, ,)
+  (NP-SBJ
+    (NP (DT the) (NN nation) (POS 's))
+    (VBG manufacturing)
+    (NNS titans))
+  (ADVP (RB typically))
+  (VP
+    (VBP jet)
+    (PRT (RP off))
+    (PP-DIR
+      (TO to)
+      (NP
+        (NP (DT the) (JJ sunny) (NNS confines))
+        (PP
+          (IN of)
+          (NP
+            (NP (NN resort) (NNS towns))
+            (PP
+              (IN like)
+              (NP
+                (NP (NNP Boca) (NNP Raton))
+                (CC and)
+                (NP (NNP Hot) (NNP Springs)))))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBZ 's)
+--------------------------------------------------------------------------------
+(NP-PRD
+  (NP (NN time))
+  (PP (IN for) (NP (PRP$ their) (JJ biannual) (NN powwow))))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 5 direction: after
+--------------------------------------------------------------------------------
+(ADVP-TMP (-NONE- *T*-1))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (PRP it))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(WHADVP-1 (WRB When))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ
+  (NP (DT the) (NN nation) (POS 's))
+  (VBG manufacturing)
+  (NNS titans))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 5 direction: after
+--------------------------------------------------------------------------------
+(ADVP (RB typically))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(VP
+  (VBP jet)
+  (PRT (RP off))
+  (PP-DIR
+    (TO to)
+    (NP
+      (NP (DT the) (JJ sunny) (NNS confines))
+      (PP
+        (IN of)
+        (NP
+          (NP (NN resort) (NNS towns))
+          (PP
+            (IN like)
+            (NP
+              (NP (NNP Boca) (NNP Raton))
+              (CC and)
+              (NP (NNP Hot) (NNP Springs)))))))))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 15 direction: after
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBG manufacturing)
+--------------------------------------------------------------------------------
+(NP (DT the) (NN nation) (POS 's))
+Selected features: Verb_word: manufacturing Verb_pos: VBG arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(NNS titans)
+Selected features: Verb_word: manufacturing Verb_pos: VBG arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: manufacturing Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(SBAR-TMP
+  (WHADVP-1 (WRB When))
+  (S
+    (NP-SBJ (PRP it))
+    (VP
+      (VBZ 's)
+      (NP-PRD
+        (NP (NN time))
+        (PP (IN for) (NP (PRP$ their) (JJ biannual) (NN powwow))))
+      (ADVP-TMP (-NONE- *T*-1)))))
+Selected features: Verb_word: manufacturing Verb_pos: VBG arg_num_leaves: 9 direction: before
+--------------------------------------------------------------------------------
+(ADVP (RB typically))
+Selected features: Verb_word: manufacturing Verb_pos: VBG arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(VP
+  (VBP jet)
+  (PRT (RP off))
+  (PP-DIR
+    (TO to)
+    (NP
+      (NP (DT the) (JJ sunny) (NNS confines))
+      (PP
+        (IN of)
+        (NP
+          (NP (NN resort) (NNS towns))
+          (PP
+            (IN like)
+            (NP
+              (NP (NNP Boca) (NNP Raton))
+              (CC and)
+              (NP (NNP Hot) (NNP Springs)))))))))
+Selected features: Verb_word: manufacturing Verb_pos: VBG arg_num_leaves: 15 direction: after
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: manufacturing Verb_pos: VBG arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBP jet)
+--------------------------------------------------------------------------------
+(PRT (RP off))
+Selected features: Verb_word: jet Verb_pos: VBP arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(PP-DIR
+  (TO to)
+  (NP
+    (NP (DT the) (JJ sunny) (NNS confines))
+    (PP
+      (IN of)
+      (NP
+        (NP (NN resort) (NNS towns))
+        (PP
+          (IN like)
+          (NP
+            (NP (NNP Boca) (NNP Raton))
+            (CC and)
+            (NP (NNP Hot) (NNP Springs))))))))
+Selected features: Verb_word: jet Verb_pos: VBP arg_num_leaves: 13 direction: after
+--------------------------------------------------------------------------------
+(ADVP (RB typically))
+Selected features: Verb_word: jet Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ
+  (NP (DT the) (NN nation) (POS 's))
+  (VBG manufacturing)
+  (NNS titans))
+Selected features: Verb_word: jet Verb_pos: VBP arg_num_leaves: 5 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: jet Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(SBAR-TMP
+  (WHADVP-1 (WRB When))
+  (S
+    (NP-SBJ (PRP it))
+    (VP
+      (VBZ 's)
+      (NP-PRD
+        (NP (NN time))
+        (PP (IN for) (NP (PRP$ their) (JJ biannual) (NN powwow))))
+      (ADVP-TMP (-NONE- *T*-1)))))
+Selected features: Verb_word: jet Verb_pos: VBP arg_num_leaves: 9 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: jet Verb_pos: VBP arg_num_leaves: 1 direction: after
+
+################################################################################
+(FRAG (RB Not) (NP-TMP (DT this) (NN year)) (. .))
+
+################################################################################
+################################################################################
+(S
+  (NP-SBJ
+    (NP (DT The) (NNP National) (NNP Association))
+    (PP (IN of) (NP (NNP Manufacturers))))
+  (VP
+    (VBD settled)
+    (PP-CLR
+      (IN on)
+      (NP
+        (NP (DT the) (NNP Hoosier) (NN capital))
+        (PP (IN of) (NP (NNP Indianapolis)))))
+    (PP (IN for) (NP (PRP$ its) (NN fall) (NN board) (NN meeting))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBD settled)
+--------------------------------------------------------------------------------
+(PP-CLR
+  (IN on)
+  (NP
+    (NP (DT the) (NNP Hoosier) (NN capital))
+    (PP (IN of) (NP (NNP Indianapolis)))))
+Selected features: Verb_word: settled Verb_pos: VBD arg_num_leaves: 6 direction: after
+--------------------------------------------------------------------------------
+(PP (IN for) (NP (PRP$ its) (NN fall) (NN board) (NN meeting)))
+Selected features: Verb_word: settled Verb_pos: VBD arg_num_leaves: 5 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ
+  (NP (DT The) (NNP National) (NNP Association))
+  (PP (IN of) (NP (NNP Manufacturers))))
+Selected features: Verb_word: settled Verb_pos: VBD arg_num_leaves: 5 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: settled Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (CC And)
+  (NP-SBJ-1 (DT the) (NN city))
+  (VP
+    (VBD decided)
+    (S
+      (NP-SBJ (-NONE- *-1))
+      (VP
+        (TO to)
+        (VP
+          (VB treat)
+          (NP (PRP$ its) (NNS guests))
+          (PP-MNR
+            (PP
+              (ADVP (JJR more))
+              (IN like)
+              (NP
+                (NP (NN royalty))
+                (CC or)
+                (NP (NN rock) (NNS stars))))
+            (PP (IN than) (NP (NN factory) (NNS owners))))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBD decided)
+--------------------------------------------------------------------------------
+(S
+  (NP-SBJ (-NONE- *-1))
+  (VP
+    (TO to)
+    (VP
+      (VB treat)
+      (NP (PRP$ its) (NNS guests))
+      (PP-MNR
+        (PP
+          (ADVP (JJR more))
+          (IN like)
+          (NP (NP (NN royalty)) (CC or) (NP (NN rock) (NNS stars))))
+        (PP (IN than) (NP (NN factory) (NNS owners)))))))
+Selected features: Verb_word: decided Verb_pos: VBD arg_num_leaves: 14 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ-1 (DT the) (NN city))
+Selected features: Verb_word: decided Verb_pos: VBD arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(CC And)
+Selected features: Verb_word: decided Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: decided Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VB treat)
+--------------------------------------------------------------------------------
+(NP (PRP$ its) (NNS guests))
+Selected features: Verb_word: treat Verb_pos: VB arg_num_leaves: 2 direction: after
+--------------------------------------------------------------------------------
+(PP-MNR
+  (PP
+    (ADVP (JJR more))
+    (IN like)
+    (NP (NP (NN royalty)) (CC or) (NP (NN rock) (NNS stars))))
+  (PP (IN than) (NP (NN factory) (NNS owners))))
+Selected features: Verb_word: treat Verb_pos: VB arg_num_leaves: 9 direction: after
+--------------------------------------------------------------------------------
+(TO to)
+Selected features: Verb_word: treat Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (-NONE- *-1))
+Selected features: Verb_word: treat Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(VBD decided)
+Selected features: Verb_word: treat Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ-1 (DT the) (NN city))
+Selected features: Verb_word: treat Verb_pos: VB arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(CC And)
+Selected features: Verb_word: treat Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: treat Verb_pos: VB arg_num_leaves: 1 direction: after
+
+################################################################################
+(FRAG
+  (NP (DT The) (NN idea))
+  (, ,)
+  (PP (IN of) (NP (NN course)))
+  (: :)
+  (S
+    (NP-SBJ (-NONE- *))
+    (VP
+      (TO to)
+      (VP
+        (VB prove)
+        (PP-CLR
+          (TO to)
+          (NP (CD 125) (JJ corporate) (NN decision) (NNS makers)))
+        (SBAR
+          (SBAR
+            (IN that)
+            (S
+              (NP-SBJ
+                (NP (DT the) (NN buckle))
+                (PP (IN on) (NP (DT the) (NNP Rust) (NNP Belt))))
+              (VP
+                (VBZ is)
+                (RB n't)
+                (ADJP-PRD (RB so) (JJ rusty))
+                (PP (IN after) (NP (DT all))))))
+          (, ,)
+          (SBAR
+            (IN that)
+            (S
+              (NP-SBJ (PRP it))
+              (VP
+                (VBZ 's)
+                (NP-PRD
+                  (NP (DT a) (JJ good) (NN place))
+                  (SBAR
+                    (WHADVP-1 (-NONE- 0))
+                    (IN for)
+                    (S
+                      (NP-SBJ (DT a) (NN company))
+                      (VP
+                        (TO to)
+                        (VP (VB expand) (ADVP-LOC (-NONE- *T*-1))))))))))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VB prove)
+--------------------------------------------------------------------------------
+(PP-CLR
+  (TO to)
+  (NP (CD 125) (JJ corporate) (NN decision) (NNS makers)))
+Selected features: Verb_word: prove Verb_pos: VB arg_num_leaves: 5 direction: after
+--------------------------------------------------------------------------------
+(SBAR
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ
+        (NP (DT the) (NN buckle))
+        (PP (IN on) (NP (DT the) (NNP Rust) (NNP Belt))))
+      (VP
+        (VBZ is)
+        (RB n't)
+        (ADJP-PRD (RB so) (JJ rusty))
+        (PP (IN after) (NP (DT all))))))
+  (, ,)
+  (SBAR
+    (IN that)
+    (S
+      (NP-SBJ (PRP it))
+      (VP
+        (VBZ 's)
+        (NP-PRD
+          (NP (DT a) (JJ good) (NN place))
+          (SBAR
+            (WHADVP-1 (-NONE- 0))
+            (IN for)
+            (S
+              (NP-SBJ (DT a) (NN company))
+              (VP (TO to) (VP (VB expand) (ADVP-LOC (-NONE- *T*-1)))))))))))
+Selected features: Verb_word: prove Verb_pos: VB arg_num_leaves: 27 direction: after
+--------------------------------------------------------------------------------
+(TO to)
+Selected features: Verb_word: prove Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (-NONE- *))
+Selected features: Verb_word: prove Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(: :)
+Selected features: Verb_word: prove Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP (IN of) (NP (NN course)))
+Selected features: Verb_word: prove Verb_pos: VB arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: prove Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP (DT The) (NN idea))
+Selected features: Verb_word: prove Verb_pos: VB arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: prove Verb_pos: VB arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBZ is)
+--------------------------------------------------------------------------------
+(RB n't)
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(ADJP-PRD (RB so) (JJ rusty))
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 2 direction: after
+--------------------------------------------------------------------------------
+(PP (IN after) (NP (DT all)))
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 2 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ
+  (NP (DT the) (NN buckle))
+  (PP (IN on) (NP (DT the) (NNP Rust) (NNP Belt))))
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 6 direction: before
+--------------------------------------------------------------------------------
+(IN that)
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(SBAR
+  (IN that)
+  (S
+    (NP-SBJ (PRP it))
+    (VP
+      (VBZ 's)
+      (NP-PRD
+        (NP (DT a) (JJ good) (NN place))
+        (SBAR
+          (WHADVP-1 (-NONE- 0))
+          (IN for)
+          (S
+            (NP-SBJ (DT a) (NN company))
+            (VP (TO to) (VP (VB expand) (ADVP-LOC (-NONE- *T*-1))))))))))
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 13 direction: after
+--------------------------------------------------------------------------------
+(PP-CLR
+  (TO to)
+  (NP (CD 125) (JJ corporate) (NN decision) (NNS makers)))
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 5 direction: before
+--------------------------------------------------------------------------------
+(VB prove)
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(TO to)
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (-NONE- *))
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(: :)
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP (IN of) (NP (NN course)))
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP (DT The) (NN idea))
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: is Verb_pos: VBZ arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBZ 's)
+--------------------------------------------------------------------------------
+(NP-PRD
+  (NP (DT a) (JJ good) (NN place))
+  (SBAR
+    (WHADVP-1 (-NONE- 0))
+    (IN for)
+    (S
+      (NP-SBJ (DT a) (NN company))
+      (VP (TO to) (VP (VB expand) (ADVP-LOC (-NONE- *T*-1)))))))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 10 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (PRP it))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(IN that)
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(SBAR
+  (IN that)
+  (S
+    (NP-SBJ
+      (NP (DT the) (NN buckle))
+      (PP (IN on) (NP (DT the) (NNP Rust) (NNP Belt))))
+    (VP
+      (VBZ is)
+      (RB n't)
+      (ADJP-PRD (RB so) (JJ rusty))
+      (PP (IN after) (NP (DT all))))))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 13 direction: before
+--------------------------------------------------------------------------------
+(PP-CLR
+  (TO to)
+  (NP (CD 125) (JJ corporate) (NN decision) (NNS makers)))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 5 direction: before
+--------------------------------------------------------------------------------
+(VB prove)
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(TO to)
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (-NONE- *))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(: :)
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP (IN of) (NP (NN course)))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP (DT The) (NN idea))
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: 's Verb_pos: VBZ arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VB expand)
+--------------------------------------------------------------------------------
+(ADVP-LOC (-NONE- *T*-1))
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(TO to)
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (DT a) (NN company))
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(IN for)
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(WHADVP-1 (-NONE- 0))
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP (DT a) (JJ good) (NN place))
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(VBZ 's)
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (PRP it))
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(IN that)
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(SBAR
+  (IN that)
+  (S
+    (NP-SBJ
+      (NP (DT the) (NN buckle))
+      (PP (IN on) (NP (DT the) (NNP Rust) (NNP Belt))))
+    (VP
+      (VBZ is)
+      (RB n't)
+      (ADJP-PRD (RB so) (JJ rusty))
+      (PP (IN after) (NP (DT all))))))
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 13 direction: before
+--------------------------------------------------------------------------------
+(PP-CLR
+  (TO to)
+  (NP (CD 125) (JJ corporate) (NN decision) (NNS makers)))
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 5 direction: before
+--------------------------------------------------------------------------------
+(VB prove)
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(TO to)
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (-NONE- *))
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(: :)
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP (IN of) (NP (NN course)))
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP (DT The) (NN idea))
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: expand Verb_pos: VB arg_num_leaves: 1 direction: after
+
+################################################################################
+(SINV
+  (PP-LOC-PRD-TPC-1
+    (IN On)
+    (NP
+      (NP (DT the) (VBG receiving) (NN end))
+      (PP (IN of) (NP (DT the) (NN message)))))
+  (VP (VBD were) (PP-LOC-PRD (-NONE- *T*-1)))
+  (NP-SBJ
+    (NP (NNS officials))
+    (PP
+      (IN from)
+      (NP
+        (NP
+          (NP (NNS giants))
+          (PP
+            (IN like)
+            (NP (NP (NNP Du) (NNP Pont)) (CC and) (NP (NNP Maytag)))))
+        (, ,)
+        (CONJP (IN along) (IN with))
+        (NP
+          (NP (JJR lesser) (NNS knowns))
+          (PP
+            (IN like)
+            (NP
+              (NP (NNP Trojan) (NNP Steel))
+              (CC and)
+              (NP
+                (DT the)
+                (NNP Valley)
+                (NNP Queen)
+                (NNP Cheese)
+                (NNP Factory))))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBG receiving)
+--------------------------------------------------------------------------------
+(DT the)
+Selected features: Verb_word: receiving Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NN end)
+Selected features: Verb_word: receiving Verb_pos: VBG arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(PP (IN of) (NP (DT the) (NN message)))
+Selected features: Verb_word: receiving Verb_pos: VBG arg_num_leaves: 3 direction: after
+--------------------------------------------------------------------------------
+(IN On)
+Selected features: Verb_word: receiving Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(VP (VBD were) (PP-LOC-PRD (-NONE- *T*-1)))
+Selected features: Verb_word: receiving Verb_pos: VBG arg_num_leaves: 2 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ
+  (NP (NNS officials))
+  (PP
+    (IN from)
+    (NP
+      (NP
+        (NP (NNS giants))
+        (PP
+          (IN like)
+          (NP (NP (NNP Du) (NNP Pont)) (CC and) (NP (NNP Maytag)))))
+      (, ,)
+      (CONJP (IN along) (IN with))
+      (NP
+        (NP (JJR lesser) (NNS knowns))
+        (PP
+          (IN like)
+          (NP
+            (NP (NNP Trojan) (NNP Steel))
+            (CC and)
+            (NP
+              (DT the)
+              (NNP Valley)
+              (NNP Queen)
+              (NNP Cheese)
+              (NNP Factory))))))))
+Selected features: Verb_word: receiving Verb_pos: VBG arg_num_leaves: 22 direction: after
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: receiving Verb_pos: VBG arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBD were)
+--------------------------------------------------------------------------------
+(PP-LOC-PRD (-NONE- *T*-1))
+Selected features: Verb_word: were Verb_pos: VBD arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(PP-LOC-PRD-TPC-1
+  (IN On)
+  (NP
+    (NP (DT the) (VBG receiving) (NN end))
+    (PP (IN of) (NP (DT the) (NN message)))))
+Selected features: Verb_word: were Verb_pos: VBD arg_num_leaves: 7 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ
+  (NP (NNS officials))
+  (PP
+    (IN from)
+    (NP
+      (NP
+        (NP (NNS giants))
+        (PP
+          (IN like)
+          (NP (NP (NNP Du) (NNP Pont)) (CC and) (NP (NNP Maytag)))))
+      (, ,)
+      (CONJP (IN along) (IN with))
+      (NP
+        (NP (JJR lesser) (NNS knowns))
+        (PP
+          (IN like)
+          (NP
+            (NP (NNP Trojan) (NNP Steel))
+            (CC and)
+            (NP
+              (DT the)
+              (NNP Valley)
+              (NNP Queen)
+              (NNP Cheese)
+              (NNP Factory))))))))
+Selected features: Verb_word: were Verb_pos: VBD arg_num_leaves: 22 direction: after
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: were Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (PP (IN For) (NP (NNS starters)))
+  (, ,)
+  (NP-SBJ (DT the) (NNS executives))
+  (VP
+    (VBD joined)
+    (NP (NNP Mayor) (NNP William) (NNP H.) (NNP Hudnut) (NNP III))
+    (PP
+      (IN for)
+      (NP
+        (NP (DT an) (NN evening))
+        (PP
+          (IN of)
+          (NP
+            (NP
+              (DT the)
+              (NNP Indianapolis)
+              (NNP Symphony)
+              (NNP Orchestra))
+            (CC and)
+            (NP
+              (DT a)
+              (NN guest)
+              (NN pianist-comedian)
+              (NNP Victor)
+              (NNP Borge)))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBD joined)
+--------------------------------------------------------------------------------
+(NP (NNP Mayor) (NNP William) (NNP H.) (NNP Hudnut) (NNP III))
+Selected features: Verb_word: joined Verb_pos: VBD arg_num_leaves: 5 direction: after
+--------------------------------------------------------------------------------
+(PP
+  (IN for)
+  (NP
+    (NP (DT an) (NN evening))
+    (PP
+      (IN of)
+      (NP
+        (NP
+          (DT the)
+          (NNP Indianapolis)
+          (NNP Symphony)
+          (NNP Orchestra))
+        (CC and)
+        (NP
+          (DT a)
+          (NN guest)
+          (NN pianist-comedian)
+          (NNP Victor)
+          (NNP Borge))))))
+Selected features: Verb_word: joined Verb_pos: VBD arg_num_leaves: 14 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (DT the) (NNS executives))
+Selected features: Verb_word: joined Verb_pos: VBD arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: joined Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP (IN For) (NP (NNS starters)))
+Selected features: Verb_word: joined Verb_pos: VBD arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: joined Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (NP-SBJ (NN Champagne) (CC and) (NN dessert))
+  (VP (VBD followed))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBD followed)
+--------------------------------------------------------------------------------
+(NP-SBJ (NN Champagne) (CC and) (NN dessert))
+Selected features: Verb_word: followed Verb_pos: VBD arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: followed Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (NP-TMP (DT The) (JJ next) (NN morning))
+  (, ,)
+  (PP (IN with) (NP (DT a) (NN police) (NN escort)))
+  (, ,)
+  (NP-SBJ-1
+    (NP (NNS busloads))
+    (PP
+      (IN of)
+      (NP
+        (NP (NNS executives))
+        (CC and)
+        (NP (PRP$ their) (NNS wives)))))
+  (VP
+    (VBD raced)
+    (PP-DIR
+      (TO to)
+      (NP (DT the) (NNP Indianapolis) (NNP Motor) (NNP Speedway)))
+    (, ,)
+    (S-ADV
+      (NP-SBJ (-NONE- *-1))
+      (ADJP-PRD
+        (JJ unimpeded)
+        (PP
+          (IN by)
+          (NP (NP (NN traffic)) (CC or) (NP (JJ red) (NNS lights)))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBD raced)
+--------------------------------------------------------------------------------
+(PP-DIR
+  (TO to)
+  (NP (DT the) (NNP Indianapolis) (NNP Motor) (NNP Speedway)))
+Selected features: Verb_word: raced Verb_pos: VBD arg_num_leaves: 5 direction: after
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: raced Verb_pos: VBD arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(S-ADV
+  (NP-SBJ (-NONE- *-1))
+  (ADJP-PRD
+    (JJ unimpeded)
+    (PP
+      (IN by)
+      (NP (NP (NN traffic)) (CC or) (NP (JJ red) (NNS lights))))))
+Selected features: Verb_word: raced Verb_pos: VBD arg_num_leaves: 7 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ-1
+  (NP (NNS busloads))
+  (PP
+    (IN of)
+    (NP (NP (NNS executives)) (CC and) (NP (PRP$ their) (NNS wives)))))
+Selected features: Verb_word: raced Verb_pos: VBD arg_num_leaves: 6 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: raced Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP (IN with) (NP (DT a) (NN police) (NN escort)))
+Selected features: Verb_word: raced Verb_pos: VBD arg_num_leaves: 4 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: raced Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-TMP (DT The) (JJ next) (NN morning))
+Selected features: Verb_word: raced Verb_pos: VBD arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: raced Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (S
+    (NP-SBJ (DT The) (NN governor))
+    (VP (MD could) (RB n't) (VP (VB make) (NP (PRP it)))))
+  (, ,)
+  (IN so)
+  (S
+    (NP-SBJ (DT the) (NN lieutenant) (NN governor))
+    (VP (VBD welcomed) (NP (DT the) (JJ special) (NNS guests))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VB make)
+--------------------------------------------------------------------------------
+(NP (PRP it))
+Selected features: Verb_word: make Verb_pos: VB arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(RB n't)
+Selected features: Verb_word: make Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(MD could)
+Selected features: Verb_word: make Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (DT The) (NN governor))
+Selected features: Verb_word: make Verb_pos: VB arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: make Verb_pos: VB arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(IN so)
+Selected features: Verb_word: make Verb_pos: VB arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(S
+  (NP-SBJ (DT the) (NN lieutenant) (NN governor))
+  (VP (VBD welcomed) (NP (DT the) (JJ special) (NNS guests))))
+Selected features: Verb_word: make Verb_pos: VB arg_num_leaves: 7 direction: after
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: make Verb_pos: VB arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBD welcomed)
+--------------------------------------------------------------------------------
+(NP (DT the) (JJ special) (NNS guests))
+Selected features: Verb_word: welcomed Verb_pos: VBD arg_num_leaves: 3 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (DT the) (NN lieutenant) (NN governor))
+Selected features: Verb_word: welcomed Verb_pos: VBD arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(IN so)
+Selected features: Verb_word: welcomed Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: welcomed Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(S
+  (NP-SBJ (DT The) (NN governor))
+  (VP (MD could) (RB n't) (VP (VB make) (NP (PRP it)))))
+Selected features: Verb_word: welcomed Verb_pos: VBD arg_num_leaves: 6 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: welcomed Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (NP-SBJ-1 (DT A) (NN buffet) (NN breakfast))
+  (VP
+    (VBD was)
+    (VP
+      (VBN held)
+      (NP (-NONE- *-1))
+      (PP-LOC (IN in) (NP (DT the) (NN museum)))
+      (, ,)
+      (SBAR-LOC
+        (WHADVP-3 (WRB where))
+        (S
+          (NP-SBJ-2 (NN food) (CC and) (NNS drinks))
+          (VP
+            (VBP are)
+            (VP
+              (VBN banned)
+              (NP (-NONE- *-2))
+              (PP (TO to) (NP (JJ everyday) (NNS visitors)))
+              (ADVP-LOC (-NONE- *T*-3))))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBD was)
+--------------------------------------------------------------------------------
+(VP
+  (VBN held)
+  (NP (-NONE- *-1))
+  (PP-LOC (IN in) (NP (DT the) (NN museum)))
+  (, ,)
+  (SBAR-LOC
+    (WHADVP-3 (WRB where))
+    (S
+      (NP-SBJ-2 (NN food) (CC and) (NNS drinks))
+      (VP
+        (VBP are)
+        (VP
+          (VBN banned)
+          (NP (-NONE- *-2))
+          (PP (TO to) (NP (JJ everyday) (NNS visitors)))
+          (ADVP-LOC (-NONE- *T*-3)))))))
+Selected features: Verb_word: was Verb_pos: VBD arg_num_leaves: 17 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ-1 (DT A) (NN buffet) (NN breakfast))
+Selected features: Verb_word: was Verb_pos: VBD arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: was Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBN held)
+--------------------------------------------------------------------------------
+(NP (-NONE- *-1))
+Selected features: Verb_word: held Verb_pos: VBN arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(PP-LOC (IN in) (NP (DT the) (NN museum)))
+Selected features: Verb_word: held Verb_pos: VBN arg_num_leaves: 3 direction: after
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: held Verb_pos: VBN arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(SBAR-LOC
+  (WHADVP-3 (WRB where))
+  (S
+    (NP-SBJ-2 (NN food) (CC and) (NNS drinks))
+    (VP
+      (VBP are)
+      (VP
+        (VBN banned)
+        (NP (-NONE- *-2))
+        (PP (TO to) (NP (JJ everyday) (NNS visitors)))
+        (ADVP-LOC (-NONE- *T*-3))))))
+Selected features: Verb_word: held Verb_pos: VBN arg_num_leaves: 11 direction: after
+--------------------------------------------------------------------------------
+(VBD was)
+Selected features: Verb_word: held Verb_pos: VBN arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ-1 (DT A) (NN buffet) (NN breakfast))
+Selected features: Verb_word: held Verb_pos: VBN arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: held Verb_pos: VBN arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBP are)
+--------------------------------------------------------------------------------
+(VP
+  (VBN banned)
+  (NP (-NONE- *-2))
+  (PP (TO to) (NP (JJ everyday) (NNS visitors)))
+  (ADVP-LOC (-NONE- *T*-3)))
+Selected features: Verb_word: are Verb_pos: VBP arg_num_leaves: 6 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ-2 (NN food) (CC and) (NNS drinks))
+Selected features: Verb_word: are Verb_pos: VBP arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(WHADVP-3 (WRB where))
+Selected features: Verb_word: are Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: are Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP-LOC (IN in) (NP (DT the) (NN museum)))
+Selected features: Verb_word: are Verb_pos: VBP arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(NP (-NONE- *-1))
+Selected features: Verb_word: are Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(VBN held)
+Selected features: Verb_word: are Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(VBD was)
+Selected features: Verb_word: are Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ-1 (DT A) (NN buffet) (NN breakfast))
+Selected features: Verb_word: are Verb_pos: VBP arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: are Verb_pos: VBP arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBN banned)
+--------------------------------------------------------------------------------
+(NP (-NONE- *-2))
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(PP (TO to) (NP (JJ everyday) (NNS visitors)))
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 3 direction: after
+--------------------------------------------------------------------------------
+(ADVP-LOC (-NONE- *T*-3))
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(VBP are)
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ-2 (NN food) (CC and) (NNS drinks))
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(WHADVP-3 (WRB where))
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP-LOC (IN in) (NP (DT the) (NN museum)))
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(NP (-NONE- *-1))
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(VBN held)
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(VBD was)
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ-1 (DT A) (NN buffet) (NN breakfast))
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: banned Verb_pos: VBN arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (ADVP-TMP (RB Then))
+  (, ,)
+  (PP (IN in) (NP (NP (DT the) (NNS guests) (POS ')) (NN honor)))
+  (, ,)
+  (NP-SBJ (DT the) (NN speedway))
+  (VP
+    (VBD hauled)
+    (PRT (RP out))
+    (NP
+      (NP (CD four) (NNS drivers))
+      (, ,)
+      (NP (NNS crews))
+      (CC and)
+      (NP
+        (RB even)
+        (DT the)
+        (JJ official)
+        (NNP Indianapolis)
+        (CD 500)
+        (NN announcer)))
+    (PP-PRP
+      (IN for)
+      (NP (DT a) (JJ 10-lap) (NN exhibition) (NN race))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBD hauled)
+--------------------------------------------------------------------------------
+(PRT (RP out))
+Selected features: Verb_word: hauled Verb_pos: VBD arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NP
+  (NP (CD four) (NNS drivers))
+  (, ,)
+  (NP (NNS crews))
+  (CC and)
+  (NP
+    (RB even)
+    (DT the)
+    (JJ official)
+    (NNP Indianapolis)
+    (CD 500)
+    (NN announcer)))
+Selected features: Verb_word: hauled Verb_pos: VBD arg_num_leaves: 11 direction: after
+--------------------------------------------------------------------------------
+(PP-PRP (IN for) (NP (DT a) (JJ 10-lap) (NN exhibition) (NN race)))
+Selected features: Verb_word: hauled Verb_pos: VBD arg_num_leaves: 5 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (DT the) (NN speedway))
+Selected features: Verb_word: hauled Verb_pos: VBD arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: hauled Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP (IN in) (NP (NP (DT the) (NNS guests) (POS ')) (NN honor)))
+Selected features: Verb_word: hauled Verb_pos: VBD arg_num_leaves: 5 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: hauled Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(ADVP-TMP (RB Then))
+Selected features: Verb_word: hauled Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: hauled Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (PP-TMP (IN After) (NP (DT the) (NN race)))
+  (, ,)
+  (NP-SBJ (NNP Fortune) (CD 500) (NNS executives))
+  (VP
+    (VBD drooled)
+    (PP-MNR (IN like) (NP (NNS schoolboys)))
+    (PP-CLR
+      (IN over)
+      (NP (DT the) (NNS cars) (CC and) (NNS drivers))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBD drooled)
+--------------------------------------------------------------------------------
+(PP-MNR (IN like) (NP (NNS schoolboys)))
+Selected features: Verb_word: drooled Verb_pos: VBD arg_num_leaves: 2 direction: after
+--------------------------------------------------------------------------------
+(PP-CLR (IN over) (NP (DT the) (NNS cars) (CC and) (NNS drivers)))
+Selected features: Verb_word: drooled Verb_pos: VBD arg_num_leaves: 5 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (NNP Fortune) (CD 500) (NNS executives))
+Selected features: Verb_word: drooled Verb_pos: VBD arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: drooled Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP-TMP (IN After) (NP (DT the) (NN race)))
+Selected features: Verb_word: drooled Verb_pos: VBD arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: drooled Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (S-ADV (NP-SBJ (-NONE- *-1)) (NP-PRD (DT No) (NNS dummies)))
+  (, ,)
+  (NP-SBJ-1 (DT the) (NNS drivers))
+  (VP
+    (VBD pointed)
+    (PRT (RP out))
+    (SBAR
+      (-NONE- 0)
+      (S
+        (NP-SBJ (PRP they))
+        (ADVP (RB still))
+        (VP
+          (VBD had)
+          (NP
+            (NP (NN space))
+            (PP (IN on) (NP (PRP$ their) (NNS machines)))
+            (PP
+              (IN for)
+              (NP
+                (NP
+                  (NP (DT another) (NN sponsor) (POS 's))
+                  (NN name))
+                (CC or)
+                (NP (CD two)))))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBD pointed)
+--------------------------------------------------------------------------------
+(PRT (RP out))
+Selected features: Verb_word: pointed Verb_pos: VBD arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(SBAR
+  (-NONE- 0)
+  (S
+    (NP-SBJ (PRP they))
+    (ADVP (RB still))
+    (VP
+      (VBD had)
+      (NP
+        (NP (NN space))
+        (PP (IN on) (NP (PRP$ their) (NNS machines)))
+        (PP
+          (IN for)
+          (NP
+            (NP (NP (DT another) (NN sponsor) (POS 's)) (NN name))
+            (CC or)
+            (NP (CD two))))))))
+Selected features: Verb_word: pointed Verb_pos: VBD arg_num_leaves: 15 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ-1 (DT the) (NNS drivers))
+Selected features: Verb_word: pointed Verb_pos: VBD arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: pointed Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(S-ADV (NP-SBJ (-NONE- *-1)) (NP-PRD (DT No) (NNS dummies)))
+Selected features: Verb_word: pointed Verb_pos: VBD arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: pointed Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBD had)
+--------------------------------------------------------------------------------
+(NP
+  (NP (NN space))
+  (PP (IN on) (NP (PRP$ their) (NNS machines)))
+  (PP
+    (IN for)
+    (NP
+      (NP (NP (DT another) (NN sponsor) (POS 's)) (NN name))
+      (CC or)
+      (NP (CD two)))))
+Selected features: Verb_word: had Verb_pos: VBD arg_num_leaves: 11 direction: after
+--------------------------------------------------------------------------------
+(ADVP (RB still))
+Selected features: Verb_word: had Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (PRP they))
+Selected features: Verb_word: had Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(-NONE- 0)
+Selected features: Verb_word: had Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PRT (RP out))
+Selected features: Verb_word: had Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(VBD pointed)
+Selected features: Verb_word: had Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ-1 (DT the) (NNS drivers))
+Selected features: Verb_word: had Verb_pos: VBD arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: had Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(S-ADV (NP-SBJ (-NONE- *-1)) (NP-PRD (DT No) (NNS dummies)))
+Selected features: Verb_word: had Verb_pos: VBD arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: had Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (ADVP-LOC (RB Back) (NN downtown))
+  (, ,)
+  (NP-SBJ-1 (DT the) (NNS execs))
+  (VP
+    (VBD squeezed)
+    (PRT (RP in))
+    (NP
+      (NP (DT a) (JJ few) (NNS meetings))
+      (PP-LOC (IN at) (NP (DT the) (NN hotel))))
+    (PP-TMP
+      (IN before)
+      (S-NOM
+        (NP-SBJ (-NONE- *-1))
+        (VP
+          (VBG boarding)
+          (NP (DT the) (NNS buses))
+          (ADVP (RB again))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBD squeezed)
+--------------------------------------------------------------------------------
+(PRT (RP in))
+Selected features: Verb_word: squeezed Verb_pos: VBD arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NP
+  (NP (DT a) (JJ few) (NNS meetings))
+  (PP-LOC (IN at) (NP (DT the) (NN hotel))))
+Selected features: Verb_word: squeezed Verb_pos: VBD arg_num_leaves: 6 direction: after
+--------------------------------------------------------------------------------
+(PP-TMP
+  (IN before)
+  (S-NOM
+    (NP-SBJ (-NONE- *-1))
+    (VP (VBG boarding) (NP (DT the) (NNS buses)) (ADVP (RB again)))))
+Selected features: Verb_word: squeezed Verb_pos: VBD arg_num_leaves: 6 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ-1 (DT the) (NNS execs))
+Selected features: Verb_word: squeezed Verb_pos: VBD arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: squeezed Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(ADVP-LOC (RB Back) (NN downtown))
+Selected features: Verb_word: squeezed Verb_pos: VBD arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: squeezed Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBG boarding)
+--------------------------------------------------------------------------------
+(NP (DT the) (NNS buses))
+Selected features: Verb_word: boarding Verb_pos: VBG arg_num_leaves: 2 direction: after
+--------------------------------------------------------------------------------
+(ADVP (RB again))
+Selected features: Verb_word: boarding Verb_pos: VBG arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (-NONE- *-1))
+Selected features: Verb_word: boarding Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(IN before)
+Selected features: Verb_word: boarding Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP
+  (NP (DT a) (JJ few) (NNS meetings))
+  (PP-LOC (IN at) (NP (DT the) (NN hotel))))
+Selected features: Verb_word: boarding Verb_pos: VBG arg_num_leaves: 6 direction: before
+--------------------------------------------------------------------------------
+(PRT (RP in))
+Selected features: Verb_word: boarding Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(VBD squeezed)
+Selected features: Verb_word: boarding Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ-1 (DT the) (NNS execs))
+Selected features: Verb_word: boarding Verb_pos: VBG arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: boarding Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(ADVP-LOC (RB Back) (NN downtown))
+Selected features: Verb_word: boarding Verb_pos: VBG arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: boarding Verb_pos: VBG arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (NP-TMP (DT This) (NN time))
+  (, ,)
+  (NP-SBJ (PRP it))
+  (VP
+    (VBD was)
+    (PP-PRD
+      (IN for)
+      (NP
+        (NP (NN dinner) (CC and) (NN dancing))
+        (: --)
+        (ADVP-LOC (NP (DT a) (NN block)) (RB away)))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBD was)
+--------------------------------------------------------------------------------
+(PP-PRD
+  (IN for)
+  (NP
+    (NP (NN dinner) (CC and) (NN dancing))
+    (: --)
+    (ADVP-LOC (NP (DT a) (NN block)) (RB away))))
+Selected features: Verb_word: was Verb_pos: VBD arg_num_leaves: 8 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (PRP it))
+Selected features: Verb_word: was Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: was Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-TMP (DT This) (NN time))
+Selected features: Verb_word: was Verb_pos: VBD arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: was Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (PP-LOC
+    (IN Under)
+    (NP
+      (NP (DT the) (NNS stars) (CC and) (NNS moons))
+      (PP
+        (IN of)
+        (NP
+          (DT the)
+          (VBN renovated)
+          (NNP Indiana)
+          (NNP Roof)
+          (NN ballroom)))))
+  (, ,)
+  (NP-SBJ
+    (NP (CD nine))
+    (PP
+      (IN of)
+      (NP
+        (NP (DT the) (JJS hottest) (NNS chefs))
+        (PP (IN in) (NP (NN town))))))
+  (VP
+    (VBD fed)
+    (NP (PRP them))
+    (NP
+      (NP (NNP Indiana) (NN duckling) (NN mousseline))
+      (, ,)
+      (NP (NN lobster) (NN consomme))
+      (, ,)
+      (NP (NN veal) (NN mignon))
+      (CC and)
+      (NP
+        (NP (JJ chocolate) (NN terrine))
+        (PP (IN with) (NP (DT a) (NN raspberry) (NN sauce))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBN renovated)
+--------------------------------------------------------------------------------
+(DT the)
+Selected features: Verb_word: renovated Verb_pos: VBN arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NNP Indiana)
+Selected features: Verb_word: renovated Verb_pos: VBN arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NNP Roof)
+Selected features: Verb_word: renovated Verb_pos: VBN arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NN ballroom)
+Selected features: Verb_word: renovated Verb_pos: VBN arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(IN of)
+Selected features: Verb_word: renovated Verb_pos: VBN arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP (DT the) (NNS stars) (CC and) (NNS moons))
+Selected features: Verb_word: renovated Verb_pos: VBN arg_num_leaves: 4 direction: before
+--------------------------------------------------------------------------------
+(IN Under)
+Selected features: Verb_word: renovated Verb_pos: VBN arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: renovated Verb_pos: VBN arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ
+  (NP (CD nine))
+  (PP
+    (IN of)
+    (NP
+      (NP (DT the) (JJS hottest) (NNS chefs))
+      (PP (IN in) (NP (NN town))))))
+Selected features: Verb_word: renovated Verb_pos: VBN arg_num_leaves: 7 direction: after
+--------------------------------------------------------------------------------
+(VP
+  (VBD fed)
+  (NP (PRP them))
+  (NP
+    (NP (NNP Indiana) (NN duckling) (NN mousseline))
+    (, ,)
+    (NP (NN lobster) (NN consomme))
+    (, ,)
+    (NP (NN veal) (NN mignon))
+    (CC and)
+    (NP
+      (NP (JJ chocolate) (NN terrine))
+      (PP (IN with) (NP (DT a) (NN raspberry) (NN sauce))))))
+Selected features: Verb_word: renovated Verb_pos: VBN arg_num_leaves: 18 direction: after
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: renovated Verb_pos: VBN arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBD fed)
+--------------------------------------------------------------------------------
+(NP (PRP them))
+Selected features: Verb_word: fed Verb_pos: VBD arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NP
+  (NP (NNP Indiana) (NN duckling) (NN mousseline))
+  (, ,)
+  (NP (NN lobster) (NN consomme))
+  (, ,)
+  (NP (NN veal) (NN mignon))
+  (CC and)
+  (NP
+    (NP (JJ chocolate) (NN terrine))
+    (PP (IN with) (NP (DT a) (NN raspberry) (NN sauce)))))
+Selected features: Verb_word: fed Verb_pos: VBD arg_num_leaves: 16 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ
+  (NP (CD nine))
+  (PP
+    (IN of)
+    (NP
+      (NP (DT the) (JJS hottest) (NNS chefs))
+      (PP (IN in) (NP (NN town))))))
+Selected features: Verb_word: fed Verb_pos: VBD arg_num_leaves: 7 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: fed Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP-LOC
+  (IN Under)
+  (NP
+    (NP (DT the) (NNS stars) (CC and) (NNS moons))
+    (PP
+      (IN of)
+      (NP
+        (DT the)
+        (VBN renovated)
+        (NNP Indiana)
+        (NNP Roof)
+        (NN ballroom)))))
+Selected features: Verb_word: fed Verb_pos: VBD arg_num_leaves: 11 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: fed Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (S-ADV
+    (NP-SBJ (-NONE- *-2))
+    (VP
+      (VBG Knowing)
+      (NP
+        (DT a)
+        (ADJP (JJ tasty) (PRN (: --) (CC and) (JJ free) (: --)))
+        (NN meal))
+      (SBAR-TMP
+        (WHADVP-1 (WRB when))
+        (S
+          (NP-SBJ (PRP they))
+          (VP (VBP eat) (NP (CD one)) (ADVP-TMP (-NONE- *T*-1)))))))
+  (, ,)
+  (NP-SBJ-2 (DT the) (NNS executives))
+  (VP
+    (VBD gave)
+    (NP (DT the) (NNS chefs))
+    (NP (DT a) (JJ standing) (NN ovation)))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBG Knowing)
+--------------------------------------------------------------------------------
+(NP
+  (DT a)
+  (ADJP (JJ tasty) (PRN (: --) (CC and) (JJ free) (: --)))
+  (NN meal))
+Selected features: Verb_word: Knowing Verb_pos: VBG arg_num_leaves: 7 direction: after
+--------------------------------------------------------------------------------
+(SBAR-TMP
+  (WHADVP-1 (WRB when))
+  (S
+    (NP-SBJ (PRP they))
+    (VP (VBP eat) (NP (CD one)) (ADVP-TMP (-NONE- *T*-1)))))
+Selected features: Verb_word: Knowing Verb_pos: VBG arg_num_leaves: 5 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (-NONE- *-2))
+Selected features: Verb_word: Knowing Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: Knowing Verb_pos: VBG arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ-2 (DT the) (NNS executives))
+Selected features: Verb_word: Knowing Verb_pos: VBG arg_num_leaves: 2 direction: after
+--------------------------------------------------------------------------------
+(VP
+  (VBD gave)
+  (NP (DT the) (NNS chefs))
+  (NP (DT a) (JJ standing) (NN ovation)))
+Selected features: Verb_word: Knowing Verb_pos: VBG arg_num_leaves: 6 direction: after
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: Knowing Verb_pos: VBG arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBP eat)
+--------------------------------------------------------------------------------
+(NP (CD one))
+Selected features: Verb_word: eat Verb_pos: VBP arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(ADVP-TMP (-NONE- *T*-1))
+Selected features: Verb_word: eat Verb_pos: VBP arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (PRP they))
+Selected features: Verb_word: eat Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(WHADVP-1 (WRB when))
+Selected features: Verb_word: eat Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP
+  (DT a)
+  (ADJP (JJ tasty) (PRN (: --) (CC and) (JJ free) (: --)))
+  (NN meal))
+Selected features: Verb_word: eat Verb_pos: VBP arg_num_leaves: 7 direction: before
+--------------------------------------------------------------------------------
+(VBG Knowing)
+Selected features: Verb_word: eat Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (-NONE- *-2))
+Selected features: Verb_word: eat Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: eat Verb_pos: VBP arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ-2 (DT the) (NNS executives))
+Selected features: Verb_word: eat Verb_pos: VBP arg_num_leaves: 2 direction: after
+--------------------------------------------------------------------------------
+(VP
+  (VBD gave)
+  (NP (DT the) (NNS chefs))
+  (NP (DT a) (JJ standing) (NN ovation)))
+Selected features: Verb_word: eat Verb_pos: VBP arg_num_leaves: 6 direction: after
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: eat Verb_pos: VBP arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBD gave)
+--------------------------------------------------------------------------------
+(NP (DT the) (NNS chefs))
+Selected features: Verb_word: gave Verb_pos: VBD arg_num_leaves: 2 direction: after
+--------------------------------------------------------------------------------
+(NP (DT a) (JJ standing) (NN ovation))
+Selected features: Verb_word: gave Verb_pos: VBD arg_num_leaves: 3 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ-2 (DT the) (NNS executives))
+Selected features: Verb_word: gave Verb_pos: VBD arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: gave Verb_pos: VBD arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(S-ADV
+  (NP-SBJ (-NONE- *-2))
+  (VP
+    (VBG Knowing)
+    (NP
+      (DT a)
+      (ADJP (JJ tasty) (PRN (: --) (CC and) (JJ free) (: --)))
+      (NN meal))
+    (SBAR-TMP
+      (WHADVP-1 (WRB when))
+      (S
+        (NP-SBJ (PRP they))
+        (VP (VBP eat) (NP (CD one)) (ADVP-TMP (-NONE- *T*-1)))))))
+Selected features: Verb_word: gave Verb_pos: VBD arg_num_leaves: 14 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: gave Verb_pos: VBD arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (NP-SBJ
+    (NP (JJR More))
+    (PP (IN than) (NP (DT a) (JJ few) (NNS CEOs))))
+  (VP
+    (VBP say)
+    (SBAR
+      (-NONE- 0)
+      (S
+        (NP-SBJ (DT the) (JJ red-carpet) (NN treatment))
+        (VP
+          (VBZ tempts)
+          (S
+            (NP-SBJ (PRP them))
+            (VP
+              (TO to)
+              (VP
+                (VB return)
+                (PP-DIR (TO to) (NP (DT a) (NN heartland) (NN city)))
+                (PP-PRP (IN for) (NP (JJ future) (NNS meetings))))))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBP say)
+--------------------------------------------------------------------------------
+(SBAR
+  (-NONE- 0)
+  (S
+    (NP-SBJ (DT the) (JJ red-carpet) (NN treatment))
+    (VP
+      (VBZ tempts)
+      (S
+        (NP-SBJ (PRP them))
+        (VP
+          (TO to)
+          (VP
+            (VB return)
+            (PP-DIR (TO to) (NP (DT a) (NN heartland) (NN city)))
+            (PP-PRP (IN for) (NP (JJ future) (NNS meetings)))))))))
+Selected features: Verb_word: say Verb_pos: VBP arg_num_leaves: 15 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ
+  (NP (JJR More))
+  (PP (IN than) (NP (DT a) (JJ few) (NNS CEOs))))
+Selected features: Verb_word: say Verb_pos: VBP arg_num_leaves: 5 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: say Verb_pos: VBP arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBZ tempts)
+--------------------------------------------------------------------------------
+(S
+  (NP-SBJ (PRP them))
+  (VP
+    (TO to)
+    (VP
+      (VB return)
+      (PP-DIR (TO to) (NP (DT a) (NN heartland) (NN city)))
+      (PP-PRP (IN for) (NP (JJ future) (NNS meetings))))))
+Selected features: Verb_word: tempts Verb_pos: VBZ arg_num_leaves: 10 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (DT the) (JJ red-carpet) (NN treatment))
+Selected features: Verb_word: tempts Verb_pos: VBZ arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(-NONE- 0)
+Selected features: Verb_word: tempts Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(VBP say)
+Selected features: Verb_word: tempts Verb_pos: VBZ arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ
+  (NP (JJR More))
+  (PP (IN than) (NP (DT a) (JJ few) (NNS CEOs))))
+Selected features: Verb_word: tempts Verb_pos: VBZ arg_num_leaves: 5 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: tempts Verb_pos: VBZ arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VB return)
+--------------------------------------------------------------------------------
+(PP-DIR (TO to) (NP (DT a) (NN heartland) (NN city)))
+Selected features: Verb_word: return Verb_pos: VB arg_num_leaves: 4 direction: after
+--------------------------------------------------------------------------------
+(PP-PRP (IN for) (NP (JJ future) (NNS meetings)))
+Selected features: Verb_word: return Verb_pos: VB arg_num_leaves: 3 direction: after
+--------------------------------------------------------------------------------
+(TO to)
+Selected features: Verb_word: return Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (PRP them))
+Selected features: Verb_word: return Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(VBZ tempts)
+Selected features: Verb_word: return Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (DT the) (JJ red-carpet) (NN treatment))
+Selected features: Verb_word: return Verb_pos: VB arg_num_leaves: 3 direction: before
+--------------------------------------------------------------------------------
+(-NONE- 0)
+Selected features: Verb_word: return Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(VBP say)
+Selected features: Verb_word: return Verb_pos: VB arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ
+  (NP (JJR More))
+  (PP (IN than) (NP (DT a) (JJ few) (NNS CEOs))))
+Selected features: Verb_word: return Verb_pos: VB arg_num_leaves: 5 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: return Verb_pos: VB arg_num_leaves: 1 direction: after
+
+################################################################################
+(S
+  (CC But)
+  (PP-TMP (IN for) (ADVP (RB now)))
+  (, ,)
+  (NP-SBJ (PRP they))
+  (VP
+    (VBP 're)
+    (VP
+      (VBG looking)
+      (ADVP-CLR (RB forward))
+      (PP-CLR
+        (TO to)
+        (NP
+          (NP (PRP$ their) (NN winter) (NN meeting))
+          (PRN
+            (: --)
+            (NP-LOC (NNP Boca))
+            (PP-TMP (IN in) (NP (NNP February))))))))
+  (. .))
+
+################################################################################
+################################################################################
+Potential arguments of (VBP 're)
+--------------------------------------------------------------------------------
+(VP
+  (VBG looking)
+  (ADVP-CLR (RB forward))
+  (PP-CLR
+    (TO to)
+    (NP
+      (NP (PRP$ their) (NN winter) (NN meeting))
+      (PRN
+        (: --)
+        (NP-LOC (NNP Boca))
+        (PP-TMP (IN in) (NP (NNP February)))))))
+Selected features: Verb_word: 're Verb_pos: VBP arg_num_leaves: 10 direction: after
+--------------------------------------------------------------------------------
+(NP-SBJ (PRP they))
+Selected features: Verb_word: 're Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: 're Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP-TMP (IN for) (ADVP (RB now)))
+Selected features: Verb_word: 're Verb_pos: VBP arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(CC But)
+Selected features: Verb_word: 're Verb_pos: VBP arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: 're Verb_pos: VBP arg_num_leaves: 1 direction: after
+
+################################################################################
+Potential arguments of (VBG looking)
+--------------------------------------------------------------------------------
+(ADVP-CLR (RB forward))
+Selected features: Verb_word: looking Verb_pos: VBG arg_num_leaves: 1 direction: after
+--------------------------------------------------------------------------------
+(PP-CLR
+  (TO to)
+  (NP
+    (NP (PRP$ their) (NN winter) (NN meeting))
+    (PRN
+      (: --)
+      (NP-LOC (NNP Boca))
+      (PP-TMP (IN in) (NP (NNP February))))))
+Selected features: Verb_word: looking Verb_pos: VBG arg_num_leaves: 8 direction: after
+--------------------------------------------------------------------------------
+(VBP 're)
+Selected features: Verb_word: looking Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(NP-SBJ (PRP they))
+Selected features: Verb_word: looking Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(, ,)
+Selected features: Verb_word: looking Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(PP-TMP (IN for) (ADVP (RB now)))
+Selected features: Verb_word: looking Verb_pos: VBG arg_num_leaves: 2 direction: before
+--------------------------------------------------------------------------------
+(CC But)
+Selected features: Verb_word: looking Verb_pos: VBG arg_num_leaves: 1 direction: before
+--------------------------------------------------------------------------------
+(. .)
+Selected features: Verb_word: looking Verb_pos: VBG arg_num_leaves: 1 direction: after
+
